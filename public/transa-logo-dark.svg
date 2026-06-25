@@ -1,0 +1,18 @@
+<svg width="260" height="74" viewBox="0 0 260 74" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="4" y1="62" x2="66" y2="8" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#052B8E"/><stop offset="0.5" stop-color="#096CFF"/><stop offset="1" stop-color="#19C8FF"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="82" y1="23" x2="245" y2="23" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0f172a"/><stop offset="1" stop-color="#1d4ed8"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(2 5) scale(.68)">
+    <path d="M22 18H82C85.8 18 88.1 22.1 86.1 25.3L77 40C75.4 42.6 72.6 44.2 69.5 44.2H58.3L42.6 77.7C41.8 79.4 40.1 80.5 38.2 80.5H22.9L42.2 39.4H19.6L22 18Z" fill="url(#g)"/>
+    <rect x="6" y="30" width="20" height="5" rx="2.5" fill="#1197FF"/>
+    <rect x="10" y="43" width="27" height="6" rx="3" fill="#3b82f6" fill-opacity=".9"/>
+    <rect x="4" y="56" width="28" height="6" rx="3" fill="#0A72FF"/>
+  </g>
+  <text x="76" y="34" fill="url(#txt)" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="3.5">TRANSA</text>
+  <text x="78" y="55" fill="#2563eb" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="800" letter-spacing="2.2">TMS AI</text>
+</svg>
